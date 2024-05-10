@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tab Layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Chats</string>
+    <string name="Status">Status</string>
+    <string name="Calls">Calls</string>
+</resources>
